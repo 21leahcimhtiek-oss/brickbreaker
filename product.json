@@ -1,0 +1,16 @@
+{
+  "id": "brickbreaker",
+  "name": "Brickbreaker",
+  "tagline": "AI-powered productivity solution",
+  "description": "AI-powered brickbreaker application built for Aurora Market. Modern, responsive design with SaaS monetization.",
+  "category": "productivity",
+  "tags": ["ai", "productivity"],
+  "url": "https://auroramarket.org/brickbreaker",
+  "demo": "https://21leahcimhtiek-oss.github.io/brickbreaker",
+  "repo": "https://github.com/21leahcimhtiek-oss/brickbreaker",
+  "stack": ["Java", "Android"],
+  "status": "mvp",
+  "version": "1.0.0",
+  "author": "Aurora Rayes LLC",
+  "license": "MIT"
+}
